@@ -124,7 +124,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="arcade drive.vi" Type="VI" URL="../arcade drive.vi"/>
+		<Item Name="Arcade Drive.vi" Type="VI" URL="../Arcade Drive.vi"/>
 		<Item Name="Cheesy Drive.vi" Type="VI" URL="../Cheesy Drive.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Sine Function.vi" Type="VI" URL="../Sine Function.vi"/>
