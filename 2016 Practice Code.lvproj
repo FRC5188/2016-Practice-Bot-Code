@@ -133,6 +133,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Sine Function.vi" Type="VI" URL="../Sine Function.vi"/>
 		<Item Name="Vision Processing Practice.vi" Type="VI" URL="../Vision Processing Practice.vi"/>
 		<Item Name="Vision Tracking 1.vi" Type="VI" URL="../Vision Tracking 1.vi"/>
+		<Item Name="Vision Tracking 2.vi" Type="VI" URL="../Vision Tracking 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
