@@ -41,6 +41,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.DoNotReboot" Type="Bool">true</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
@@ -128,14 +129,14 @@ AddOutputFilter chunkFilter
 		<Item Name="Arcade Drive.vi" Type="VI" URL="../Arcade Drive.vi"/>
 		<Item Name="Cheesy Drive.vi" Type="VI" URL="../Cheesy Drive.vi"/>
 		<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
-		<Item Name="navX Library v1 (deprecated).lvlib" Type="Library" URL="../../../../navx-mxp/labview/navX Library v1 (deprecated)/navX Library v1 (deprecated).lvlib"/>
-		<Item Name="navX Library v2.lvlib" Type="Library" URL="../navX Library v2/navX Library v2.lvlib"/>
 		<Item Name="Rising Edge.vi" Type="VI" URL="../Rising Edge.vi"/>
+		<Item Name="navX Library v1 (deprecated).lvlib" Type="Library" URL="../../../../navx-mxp/labview/navX Library v1 (deprecated)/navX Library v1 (deprecated).lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Sine Function.vi" Type="VI" URL="../Sine Function.vi"/>
 		<Item Name="Vision Processing Practice.vi" Type="VI" URL="../Vision Processing Practice.vi"/>
 		<Item Name="Vision Tracking 1.vi" Type="VI" URL="../Vision Tracking 1.vi"/>
 		<Item Name="Vision Tracking 2.vi" Type="VI" URL="../Vision Tracking 2.vi"/>
+		<Item Name="navX Library v2.lvlib" Type="Library" URL="../navX Library v2/navX Library v2.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
