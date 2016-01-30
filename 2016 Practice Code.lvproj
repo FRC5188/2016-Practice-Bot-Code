@@ -127,6 +127,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Aiming with Turning.vi" Type="VI" URL="../Aiming with Turning.vi"/>
 		<Item Name="Arcade Drive.vi" Type="VI" URL="../Arcade Drive.vi"/>
 		<Item Name="Cheesy Drive.vi" Type="VI" URL="../Cheesy Drive.vi"/>
+		<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
+		<Item Name="navX Library v1 (deprecated).lvlib" Type="Library" URL="../../../../navx-mxp/labview/navX Library v1 (deprecated)/navX Library v1 (deprecated).lvlib"/>
 		<Item Name="navX Library v2.lvlib" Type="Library" URL="../navX Library v2/navX Library v2.lvlib"/>
 		<Item Name="Rising Edge.vi" Type="VI" URL="../Rising Edge.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
