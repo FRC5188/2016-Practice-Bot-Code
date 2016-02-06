@@ -137,6 +137,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Vision Tracking 2.vi" Type="VI" URL="../Vision Tracking 2.vi"/>
 		<Item Name="navX Library v2.lvlib" Type="Library" URL="../../../../navx-mxp/labview/navX Library v2/navX Library v2.lvlib"/>
 		<Item Name="Intake Pistion LOgic.vi" Type="VI" URL="../Intake Pistion LOgic.vi"/>
+		<Item Name="Normalize.vi" Type="VI" URL="../Normalize.vi"/>
+		<Item Name="Convert to 180.vi" Type="VI" URL="../Convert to 180.vi"/>
+		<Item Name="Turning.vi" Type="VI" URL="../Turning.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -687,6 +690,9 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_SolenoidValue.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidValue.ctl"/>
 				<Item Name="WPI_SolenoidSetEnum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidSetEnum.vi"/>
 				<Item Name="WPI_SolenoidSet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidSet.vi"/>
+				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
+				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
+				<Item Name="lvpidtkt.dll" Type="Document" URL="/&lt;vilib&gt;/addons/control/pid/lvpidtkt.dll"/>
 			</Item>
 			<Item Name="Deadzone.vi" Type="VI" URL="../Deadzone.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
